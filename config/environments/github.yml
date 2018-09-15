@@ -11,6 +11,6 @@
 
 # Use these settings for GH Pages
 
-baseURL: "https://gettypubs.github.io/quire-demo"
+baseURL: "https://annotating-antonia.github.io/antonia-quire"
 canonifyURLs: true
 relativeURLs: false
