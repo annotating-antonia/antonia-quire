@@ -7,7 +7,7 @@
 # you've copied the default theme and given it a different name make sure to
 # update the value here too.
 
-baseURL: "localhost:1313"
+baseURL: "https://annotating-antonia.github.io/antonia-quire/"
 
 title: "Annotating *Ántonia*"
 languageCode: "en-us"
