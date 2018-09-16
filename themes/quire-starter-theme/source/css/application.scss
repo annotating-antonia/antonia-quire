@@ -23,3 +23,9 @@ $box-shadow: 0 2px 3px rgba($dark, 0.1), 0 0 0;
 @import "layout";
 @import "components/all";
 @import "print";
+
+body {
+    -webkit-user-select: all;  /* Chrome all / Safari all */
+    -moz-user-select: all;     /* Firefox all */
+    -ms-user-select: all;      /* IE 10+ */   
+  }
