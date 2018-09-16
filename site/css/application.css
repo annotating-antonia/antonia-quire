@@ -8656,3 +8656,11 @@ html {
   .container {
     max-width: 100%;
     margin: 0; } }
+
+body {
+  -webkit-user-select: all;
+  /* Chrome all / Safari all */
+  -moz-user-select: all;
+  /* Firefox all */
+  -ms-user-select: all;
+  /* IE 10+ */ }
