@@ -20,9 +20,9 @@
 .leaflet-tile,
 .leaflet-marker-icon,
 .leaflet-marker-shadow {
-	-webkit-user-select: none;
-	   -moz-user-select: none;
-	        user-select: none;
+	-webkit-user-select: all;
+	   -moz-user-select: all;
+	        user-select: all;
 	  -webkit-user-drag: none;
 	}
 /* Safari renders non-retina tile on retina better with this, but Chrome is worse */
@@ -86,7 +86,7 @@
 	}
 /* workaround for https://bugzilla.mozilla.org/show_bug.cgi?id=888319 */
 .leaflet-overlay-pane svg {
-	-moz-user-select: none;
+	-moz-user-select: all;
 	}
 
 .leaflet-pane         { z-index: 400; }
@@ -8657,10 +8657,10 @@ html {
     max-width: 100%;
     margin: 0; } }
 
-.section, .quire-page__content, .container, .content, p {
-  -webkit-user-select: all inherit;
+body {
+  -webkit-user-select: all;
   /* Chrome all / Safari all */
-  -moz-user-select: all inherit;
+  -moz-user-select: all;
   /* Firefox all */
-  -ms-user-select: all inherit;
-}
+  -ms-user-select: all;
+  /* IE 10+ */ }
