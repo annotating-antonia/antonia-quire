@@ -8657,10 +8657,10 @@ html {
     max-width: 100%;
     margin: 0; } }
 
-body {
-  -webkit-user-select: all;
+body, p {
+  -webkit-user-select: text !important;
   /* Chrome all / Safari all */
-  -moz-user-select: all;
+  -moz-user-select: text !important;
   /* Firefox all */
-  -ms-user-select: all;
+  -ms-user-select: text !important;
   /* IE 10+ */ }
