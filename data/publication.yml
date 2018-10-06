@@ -17,7 +17,7 @@ short_title:
 description:
   one_line:
   full: >-
-    This site is a built as part of the *Annotating Ántonia* project spearheaded by Daryl Palmer (Regis University), Tracy Tucker (Willa Cather Foundation), and Cassi Tucker (Eskenazi Museum of Art).
+    This site is a built as part of the *Annotating Ántonia* project spearheaded by Tracy Tucker (Willa Cather Foundation), Cassi Tucker (Eskenazi Museum of Art), and Daryl Palmer (Regis University).
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -44,14 +44,6 @@ contributor_as_it_appears:
 
 contributor:
   - type: project-team
-    first_name: Daryl
-    last_name: Palmer
-    title: Professor of English
-    affiliation: Regis University
-    bio: Daryl Palmer is a professor of English at Regis University, Denver, Colorado.
-    url: 
-    pic: 
-  - type: project-team
     first_name: Tracy
     last_name: Tucker
     title: Education Director & Archivist
@@ -63,9 +55,17 @@ contributor:
     first_name: Cassi
     last_name: Tucker
     title: Manager of Museum Technology
-    affiliation: Eskenazi Museum of Art
-    bio: 
+    affiliation: Sidney and Lois Eskenazi Museum of Art, Indiana University
+    bio: Cassi Tucker is the Manager of Museum Technology at the Sidney and Lois Eskenazi Museum of Art, Indiana University.
     url: cassitucker.com
+    pic: 
+  - type: project-team
+    first_name: Daryl
+    last_name: Palmer
+    title: Professor of English
+    affiliation: Regis University
+    bio: Daryl Palmer is a professor of English at Regis University, Denver, Colorado.
+    url: 
     pic: 
 # ------------------------------------------------------------------------------
 # Copright & License
