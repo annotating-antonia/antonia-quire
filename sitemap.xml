@@ -67,14 +67,6 @@
   </url>
   
   <url>
-    <loc>/contributors/</loc>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
     <loc>/part-one/chapter-two/11/</loc>
   </url>
   
@@ -164,6 +156,14 @@
   
   <url>
     <loc>/part-two/chapter-seven/206/</loc>
+  </url>
+  
+  <url>
+    <loc>/contributors/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
   </url>
   
   <url>
