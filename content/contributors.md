@@ -1,7 +1,6 @@
 ---
-title: Contributors
-weight: 1000
+title: Editors
+weight: 100000
 type: page
 ---
-{{< q-contributors range="project-team" type="name-plus" >}}
-
+{{< q-contributors range="primary" type="name-plus">}}

@@ -40,10 +40,10 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: "Edited by Tracy Tucker, Cassi Tucker, and Daryl Palmer."
 
 contributor:
-  - type: project-team
+  - type: primary
     first_name: Tracy
     last_name: Tucker
     title: Education Director & Archivist
@@ -51,7 +51,7 @@ contributor:
     bio: Tracy Tucker is the Education Director and Archivist at the Willa Cather Foundation, Red Cloud, NE.
     url: willacather.org
     pic: 
-  - type: project-team
+  - type: primary
     first_name: Cassi
     last_name: Tucker
     title: Manager of Museum Technology
@@ -59,7 +59,7 @@ contributor:
     bio: Cassi Tucker is the Manager of Museum Technology at the Sidney and Lois Eskenazi Museum of Art, Indiana University.
     url: cassitucker.com
     pic: 
-  - type: project-team
+  - type: primary
     first_name: Daryl
     last_name: Palmer
     title: Professor of English

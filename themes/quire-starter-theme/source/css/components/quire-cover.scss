@@ -53,7 +53,7 @@ $quire-page-link-color: $color-primary !default;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    min-height: calc(100vh - #{$navbar-height});
+    height: 60vh;
     text-align: $quire-cover-text-alignment;
     display: flex;
     align-items: center;

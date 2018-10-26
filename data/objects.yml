@@ -1,0 +1,8 @@
+object_list:
+  - id: 2.1
+    title: Lena Lingard
+    artist: W. T. Benda
+    year: 1917
+    download: false
+    figure:
+      - src: Benda-Lena.jpg
